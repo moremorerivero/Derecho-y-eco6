@@ -118,7 +118,6 @@
     <div class="content">
         <h1>Bienvenido a la Página de Diseño</h1>
         <p>PERSONAS FÍSICAS
-queso pan mermelada y atun.
 </p>
         
     </div>

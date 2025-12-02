@@ -571,17 +571,21 @@
             
             <div class="services-grid">
                 <div class="service-card">
-                    <h3>Características Principales</h3>
-                    <ul style="text-align: left; color: #555;">
-                        <li>Existencia real y tangible</li>
+                     <h3>¿Qué es una Persona Fisica?</h3>
+                    <p><strong>Una persona física (o natural) es todo ser humano considerado como sujeto de derecho y obligaciones.</strong></p>
+                    <ul style="text-align: left; color: #3b3838ff;">
+                        <li>Fin de la existencia (Art. 93 CCyC) Termina con la muerte comprobada legalmente.</li>
                         <li>Capacidad jurídica desde el nacimiento</li>
-                        <li>Estado civil determinado</li>
-                        <li>Nombre identificativo</li>
-                        <li>Patrimonio propio</li>
-                         <li>Patrimonio propio</li>
-                          <li>Patrimonio propio</li>
+                          <p><strong>Atributos de la persona física (características legales que permiten identificarla y ejercer derechos):</strong></p>
+                        <li>Nombre → apellido y nombre (Arts. 62 a 72 CCyC).</li>
+                        <li>Domicilio → lugar donde la persona reside con intención de permanecer (Arts. 73 a 77).</li>
+                        <li>Estado civil → situación frente al matrimonio, unión convivencial, filiación.</li>
+                        <li>Capacidad → Capacidad de derecho: aptitud para ser titular de derechos y obligaciones (se tiene desde el nacimiento con vida).</li>
+                        <li>Capacidad de ejercicio: aptitud para ejercer esos derechos por sí mismo (plena a los 18 años).</li>
+                        <p><strong>Según el Código Civil y Comercial de la Nación Argentina, una persona humana es titular de derechos y deberes jurídicos desde su nacimiento con vida. La existencia de la persona humana comienza con la concepción, y su capacidad de ejercicio se presume, excepto en casos de limitaciones expresamente previstas en la ley. </strong></p>
+                          
                         
-                    </ul>
+                    </ul>   
                 </div>
                 <div class="service-card">
                     <h3>Capacidad Jurídica</h3>
@@ -648,7 +652,7 @@
         </div>
         <div class="chat-messages" id="chat-messages">
             <div class="message bot-message">
-                ¡Hola! Soy Abogacini, tu asistente legal inteligente. 👋<br><br>
+                ¡Holaaa! Soy Abogacini, tu asistente legal inteligente. 👋<br><br>
                 Puedes preguntarme sobre cualquier tema legal o usar las preguntas rápidas del inicio. Estoy aquí para ayudarte 24/7.
             </div>
         </div>
@@ -663,7 +667,7 @@
     </div>
 
     <footer class="main-footer">
-        <p>&copy; 2024 Abogacini - Plataforma Legal Inteligente. Todos los derechos reservados.</p>
+        <p>&copy; 2025 Abogacini - Plataforma Legal Inteligente. Todos los derechos reservados.</p>
     </footer>
 
     <script>
